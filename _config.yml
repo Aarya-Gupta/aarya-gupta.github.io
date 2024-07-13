@@ -23,10 +23,8 @@ resume_contact_email:           "aarya22006@iiitd.ac.in"
 resume_header_contact_info:     "header_contact_info"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>As a tech enthusiast, I bring a diverse blend of skills and a passion for innovation to the table. With a solid foundation in algorithms, logic, and critical thinking, I thrive in the realm of technology, constantly seeking to unravel puzzles and explore new horizons. 
-My interests spans across various domains, from AI and Cyber Security to micro processors and circuit design. In addition to my technical prowess, I am also deeply interested in design and human computer interaction. Leveraging tools like Figma and Miro, I enjoy bringing ideas to life and fostering creativity in a collaborative environment.
-Outside of the world of circuits and code, I'm fascinated by psychology and the human mind. I believe in the importance of fitness for both physical and mental well-being.
-With a knack for clear communication, I strive to articulate ideas effectively and engage with diverse audiences. I am constantly seeking opportunities to learn, grow, and contribute to the ever-evolving landscape of technology.</p>"
+resume_header_intro: "<p>
+As a tech enthusiast with a solid foundation in algorithms, logic, and critical thinking, I explore AI, cybersecurity, and circuit design. I enjoy using Figma and Miro for creative projects, have a keen interest in psychology, and value fitness. I aim to articulate ideas effectively and contribute to technology.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
