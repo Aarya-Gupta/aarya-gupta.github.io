@@ -2,15 +2,16 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Facial Emotion Recognition
+  # role: Founder & Primary Developer
+  duration: Jun 24 &mdash; Present
+  url: "https://github.com/Aarya-Gupta/Facial-Emotion-Recognition"
+  description: <ul class="resume-item-list"><li>Processed a large dataset of facial images and implemented DCNN with ELU activation. Optimized model with multiple convolution layers and classified emotions into 7 distinct categories.</li><ul class="resume-item-list"><li>Achieved an accuracy of 82.65% in classifying facial emotions trained over 45 epochs.</li>
+
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
+- project: Stick Hero Game
+  # role: Lead Developer
+  duration: Aug 23 &mdash; Dec 23
+  url: "https://github.com/Aarya-Gupta/Stick_Hero_Game"
   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
