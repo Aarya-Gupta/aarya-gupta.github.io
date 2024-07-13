@@ -14,4 +14,11 @@
   # role: Lead Developer
   duration: Aug 23 &mdash; Dec 23
   url: "https://github.com/Aarya-Gupta/Stick_Hero_Game"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: <ul class="resume-item-list"><li> Created an action platformer game in Java, with additional features such as collecting reward, reviving, pausing, saving, and loading games using serialization.</li><ul class="resume-item-list"><li>Designed UML and Class Diagrams before writing any code. Applied various Design Patterns and followed OOPS Principles and Modular Coding. </li> <ul class="resume-item-list"><li> Integrated front-end and back-end elements seamlessly using SceneBuilder and JavaFX, ensuring functionality validation through comprehensive JUnit testing.</li>
+
+# Springfield Community Outreach Group
+- project: Euphoria - A Well Being App
+  # role: Lead Developer
+  duration: Nov 22 &mdash; Feb 23
+  url: "https://drive.google.com/drive/folders/16KsEejnqzO8SOj4kNuS980efhPpNJ1Yq?usp=drive_link"
+  description: <ul class="resume-item-list"><li>Conceived a prototype of an app to foster connections between people struggling with mental health disorders and the resources, communities, tools needed to overcome them. </li><ul class="resume-item-list"><li> Created UI prototypes using Figma and Miro, led UX Research to enhance user experiences, integrating personas, empathy mapping, lo-fi and hi-fi prototypes.</li>
