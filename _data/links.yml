@@ -1,5 +1,5 @@
-# links
-# - url: "#"
-#   description: Springfield Jazz Enthusiasts
-# - url: "#"
-#   description: Springfield Young Professionals
+links
+- url: "https://github.com/Aarya-Gupta"
+  description: Github
+- url: "https://www.linkedin.com/in/aarya-gupta-professional/"
+  description: LinkedIn
