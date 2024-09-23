@@ -1,19 +1,37 @@
 # Jobs
-# VP of Global Communications
 - company: MIDAS Lab IIITD
   position: Undergraduate Researcher
   duration: Aug, 2024 &mdash; Present
-  url: https://github.com/Aarya-Gupta/Autonomous-Driving-Systems
-  summary: Key Responsibilities and Achievements Include:<ul class="resume-item-list"><li>This project enhances traffic management and safety by analyzing live traffic videos using ML, DL, and LLMs and gathering crucial information to detect accidents in real-time. </li><li>A fast and efficient pipeline is being built to handle the video data, ensuring timely and reliable accident detection.</li>Analyzed MORTH data to identify accident conditions in India and scraping accident videos to curate a dataset based on government-defined factors.</li>  
+  # url: https://github.com/Aarya-Gupta/Autonomous-Driving-Systems
+  summary: >
+    Key Responsibilities and Achievements Include:
+    <ul class="resume-item-list">
+    <li>This project enhances traffic management and safety by analyzing live traffic videos using ML, DL, and LLMs and gathering crucial information to detect accidents in real-time.</li>
+    <li>A fast and efficient pipeline is being built to handle the video data, ensuring timely and reliable accident detection.</li>
+    <li>Analyzed MORTH data to identify accident conditions in India and scraping accident videos to curate a dataset based on government-defined factors.</li>
+    </ul>
 
 - company: Network Security Lab IIITD
-position: Undergraduate Researcher
-duration: Aug, 2024 &mdash; Present
-url: https://github.com/Aarya-Gupta/Autonomous-Driving-Systems
-summary: Key Responsibilities and Achievements Include:<ul class="resume-item-list"><li>Investigating privacy implications of popular mobile apps in India, focusing on data collection practices and security vulnerabilities.</li><li>Analyzing network traffic and APKs of apps to categorize collected data as necessary or unnecessary, identifying risks related to personally identifiable information (PII) leaks.</li><li>Examined vulnerabilities in backend servers of apps using service scans and input validation checks, exposing potential breaches and non-compliance with Indian privacy regulations.</li><li>Conducted static and dynamic analysis of app behaviors to assess adherence to privacy policies, uncovering extensive unnecessary data collection in several non-government apps​.</li>
+  position: Undergraduate Researcher
+  duration: Aug, 2024 &mdash; Present
+  # url: https://github.com/Aarya-Gupta/Autonomous-Driving-Systems
+  summary: >
+    Key Responsibilities and Achievements Include:
+    <ul class="resume-item-list">
+    <li>Investigating privacy implications of popular mobile apps in India, focusing on data collection practices and security vulnerabilities.</li>
+    <li>Analyzing network traffic and APKs of apps to categorize collected data as necessary or unnecessary, identifying risks related to personally identifiable information (PII) leaks.</li>
+    <li>Examined vulnerabilities in backend servers of apps using service scans and input validation checks, exposing potential breaches and non-compliance with Indian privacy regulations.</li>
+    <li>Conducted static and dynamic analysis of app behaviors to assess adherence to privacy policies, uncovering extensive unnecessary data collection in several non-government apps.</li>
+    </ul>
 
 - company: Networked Autonomous Systems Lab IIITD
-position: Undergraduate Researcher
-duration: May, 2024 &mdash; Aug, 2024
-url: https://github.com/Aarya-Gupta/Autonomous-Driving-Systems
-summary: Key Responsibilities and Achievements Include:<ul class="resume-item-list"><li>Investigated Uncertainty in the autonomous vehicle motion to ensure safety and reliability.</li><li>Developed Probabilistic and Statistical models in Python to forecast vehicle trajectories, explored 3 different approaches (Bayesian Updation, Kernel Density Estimation, Bootstrapping)to optimize predictions by modifying/ estimating various degrees of freedom based on the available data.</li><li>Focused on identifying the best confidence interval for the true mean of the underlying distribution using the BCA method after evaluating 5 approaches.</li>
+  position: Undergraduate Researcher
+  duration: May, 2024 &mdash; Aug, 2024
+  # url: https://github.com/Aarya-Gupta/Autonomous-Driving-Systems
+  summary: >
+    Key Responsibilities and Achievements Include:
+    <ul class="resume-item-list">
+    <li>Investigated Uncertainty in the autonomous vehicle motion to ensure safety and reliability.</li>
+    <li>Developed Probabilistic and Statistical models in Python to forecast vehicle trajectories, explored 3 different approaches (Bayesian Updation, Kernel Density Estimation, Bootstrapping) to optimize predictions by modifying/estimating various degrees of freedom based on the available data.</li>
+    <li>Focused on identifying the best confidence interval for the true mean of the underlying distribution using the BCA method after evaluating 5 approaches.</li>
+    </ul>
