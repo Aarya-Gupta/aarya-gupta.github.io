@@ -1,5 +1,5 @@
 # Jobs
-- company: MIDAS Lab IIITD
+- company: "MIDAS: Multimodal Digital Media Analysis Lab IIITD"
   position: Undergraduate Researcher
   duration: Aug, 2024 &mdash; Present
   # url: https://github.com/Aarya-Gupta/Autonomous-Driving-Systems
@@ -11,7 +11,7 @@
     <li>Analyzed MORTH data to identify accident conditions in India and scraped accident videos to curate a dataset based on government-defined factors.</li>
     </ul>
 
-- company: Network Security Lab IIITD
+- company: "NETSEC: Network Security Lab IIITD"
   position: Undergraduate Researcher
   duration: Aug, 2024 &mdash; Present
   # url: https://github.com/Aarya-Gupta/Autonomous-Driving-Systems
@@ -24,7 +24,7 @@
     <li>Conducted static and dynamic analysis of app behaviors to assess adherence to privacy policies, uncovering extensive unnecessary data collection in several non-government apps.</li>
     </ul>
 
-- company: Networked Autonomous Systems Lab IIITD
+- company: "NAS: Networked Autonomous Systems Lab IIITD"
   position: Undergraduate Researcher
   duration: May, 2024 &mdash; Aug, 2024
   # url: https://github.com/Aarya-Gupta/Autonomous-Driving-Systems
