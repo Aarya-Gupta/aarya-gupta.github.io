@@ -1,8 +1,12 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: Undergraduate Research Club IIITD
+  role: Researcher 
+  year: 2024 &mdash; present
+
 - organization: Reliance Foundation
-  role: Mentor @ Scholar Community
+  role: Scholar Mentor @ Scholar Community
   year: 2024 &mdash; present
   # url: https://www.peta.org/
   # summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
