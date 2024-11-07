@@ -12,8 +12,9 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Aarya Gupta"
 resume_title: |
-  Placement Cell IIITN • Reliance Foundation Scholar •
-  UG Researcher @ NAS Lab, IIITD • Junior @ IIITD
+  Placement Cell IIITD • Reliance Foundation Scholar • 
+  UG Researcher @ {MIDAS, NETSEC, NAS} Labs IIITD • 
+  Junior @ IIITD
   
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "aarya22006@iiitd.ac.in"
