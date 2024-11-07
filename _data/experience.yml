@@ -8,7 +8,7 @@
     <ul class="resume-item-list">
     <li>This project enhances traffic management and safety by analyzing live traffic videos using ML, DL, and LLMs and gathering crucial information to detect accidents in real-time.</li>
     <li>A fast and efficient pipeline is being built to handle the video data, ensuring timely and reliable accident detection.</li>
-    <li>Analyzed MORTH data to identify accident conditions in India and scraping accident videos to curate a dataset based on government-defined factors.</li>
+    <li>Analyzed MORTH data to identify accident conditions in India and scraped accident videos to curate a dataset based on government-defined factors.</li>
     </ul>
 
 - company: Network Security Lab IIITD
